@@ -9,7 +9,6 @@ string[] GetArray()   // запрос на ввод начальных данн�
     return array;
 }
 
-
 void PrintArray(string[] array)   // вывод массива в терминал
 {
     System.Console.WriteLine("[" + string.Join(", ", array) + "]");
@@ -39,7 +38,6 @@ string[] NewArray(string[] array, int length)   // заполнение ново
     }
     return array2;
 }
-
 
 var myArray = GetArray();
 PrintArray(myArray);
