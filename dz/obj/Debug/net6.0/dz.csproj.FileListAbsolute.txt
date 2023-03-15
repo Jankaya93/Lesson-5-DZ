@@ -1,0 +1,15 @@
+C:\Users\Start\Desktop\учеба ГикБейнс\5. Выбор специализации (контрольная)\Kontrolnaya\lesson_5\Lesson-5-DZ\dz\bin\Debug\net6.0\dz.exe
+C:\Users\Start\Desktop\учеба ГикБейнс\5. Выбор специализации (контрольная)\Kontrolnaya\lesson_5\Lesson-5-DZ\dz\bin\Debug\net6.0\dz.deps.json
+C:\Users\Start\Desktop\учеба ГикБейнс\5. Выбор специализации (контрольная)\Kontrolnaya\lesson_5\Lesson-5-DZ\dz\bin\Debug\net6.0\dz.runtimeconfig.json
+C:\Users\Start\Desktop\учеба ГикБейнс\5. Выбор специализации (контрольная)\Kontrolnaya\lesson_5\Lesson-5-DZ\dz\bin\Debug\net6.0\dz.dll
+C:\Users\Start\Desktop\учеба ГикБейнс\5. Выбор специализации (контрольная)\Kontrolnaya\lesson_5\Lesson-5-DZ\dz\bin\Debug\net6.0\dz.pdb
+C:\Users\Start\Desktop\учеба ГикБейнс\5. Выбор специализации (контрольная)\Kontrolnaya\lesson_5\Lesson-5-DZ\dz\obj\Debug\net6.0\dz.csproj.AssemblyReference.cache
+C:\Users\Start\Desktop\учеба ГикБейнс\5. Выбор специализации (контрольная)\Kontrolnaya\lesson_5\Lesson-5-DZ\dz\obj\Debug\net6.0\dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Start\Desktop\учеба ГикБейнс\5. Выбор специализации (контрольная)\Kontrolnaya\lesson_5\Lesson-5-DZ\dz\obj\Debug\net6.0\dz.AssemblyInfoInputs.cache
+C:\Users\Start\Desktop\учеба ГикБейнс\5. Выбор специализации (контрольная)\Kontrolnaya\lesson_5\Lesson-5-DZ\dz\obj\Debug\net6.0\dz.AssemblyInfo.cs
+C:\Users\Start\Desktop\учеба ГикБейнс\5. Выбор специализации (контрольная)\Kontrolnaya\lesson_5\Lesson-5-DZ\dz\obj\Debug\net6.0\dz.csproj.CoreCompileInputs.cache
+C:\Users\Start\Desktop\учеба ГикБейнс\5. Выбор специализации (контрольная)\Kontrolnaya\lesson_5\Lesson-5-DZ\dz\obj\Debug\net6.0\dz.dll
+C:\Users\Start\Desktop\учеба ГикБейнс\5. Выбор специализации (контрольная)\Kontrolnaya\lesson_5\Lesson-5-DZ\dz\obj\Debug\net6.0\refint\dz.dll
+C:\Users\Start\Desktop\учеба ГикБейнс\5. Выбор специализации (контрольная)\Kontrolnaya\lesson_5\Lesson-5-DZ\dz\obj\Debug\net6.0\dz.pdb
+C:\Users\Start\Desktop\учеба ГикБейнс\5. Выбор специализации (контрольная)\Kontrolnaya\lesson_5\Lesson-5-DZ\dz\obj\Debug\net6.0\dz.genruntimeconfig.cache
+C:\Users\Start\Desktop\учеба ГикБейнс\5. Выбор специализации (контрольная)\Kontrolnaya\lesson_5\Lesson-5-DZ\dz\obj\Debug\net6.0\ref\dz.dll
